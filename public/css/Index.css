@@ -241,10 +241,13 @@ display:flex;
 position:absolute;
 left:107.0px;
 top:100.0px;
-height:38.0px;
+height:39.0px;
 width:48.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
-border-radius:7.0px;
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
 }
 
 #_35_46 {
@@ -262,8 +265,8 @@ outline-color:rgba(252.87500202655792, 252.87500202655792, 252.87500202655792, 1
 
 #_35_51 {
 position:absolute;
-left:109.0px;
-top:104.0px;
+left:2.0px;
+top:5.0px;
 height:34.0px;
 width:44.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
