@@ -141,15 +141,9 @@ left:0.0px;
 top:406.0px;
 height:78.0px;
 width:82.0px;
+background-color:rgba(31.10221266746521, 80.74999898672104, 7.738541727885604, 1.0);
 border-radius:7.0px;
-display:flex;
-align-items:center;
-justify-content:center;
-}
-
-#_38_118_svg {
-width:100%;
-height:100%;
+box-shadow:0.0px 4.0px 4.0px rgba(0.0, 0.0, 0.0, 0.25);
 }
 
 #_37_97 {
