@@ -244,10 +244,7 @@ top:100.0px;
 height:38.0px;
 width:48.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
-border-top-left-radius:0.0px;
-border-top-right-radius:0.0px;
-border-bottom-right-radius:0.0px;
-border-bottom-left-radius:0.0px;
+border-radius:7.0px;
 }
 
 #_35_46 {
@@ -258,15 +255,15 @@ height:38.0px;
 width:48.0px;
 border-radius:7.0px;
 box-shadow:0.0px 4.0px 4.0px rgba(0.0, 0.0, 0.0, 0.25);
-border-width:1.0px;
-border-style:SOLID;
-border-color:rgba(252.87500202655792, 252.87500202655792, 252.87500202655792, 1.0);
+outline-width:1.0px;
+outline-style:SOLID;
+outline-color:rgba(252.87500202655792, 252.87500202655792, 252.87500202655792, 1.0);
 }
 
 #_35_45 {
 position:absolute;
-left:11.0px;
-top:6.0px;
+left:118.0px;
+top:106.0px;
 height:26.0px;
 width:26.0px;
 box-shadow:0.0px 4.0px 4.0px rgba(0.0, 0.0, 0.0, 0.25);
