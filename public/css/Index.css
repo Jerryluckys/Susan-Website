@@ -135,10 +135,27 @@ align-items:center;
 justify-content:center;
 }
 
+#_38_118 {
+position:absolute;
+left:1.0px;
+top:405.0px;
+height:78.0px;
+width:81.0px;
+border-radius:7.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_38_118_svg {
+width:100%;
+height:100%;
+}
+
 #_37_97 {
 position:absolute;
 left:26.0px;
-top:417.0px;
+top:429.0px;
 height:30.0px;
 width:30.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
