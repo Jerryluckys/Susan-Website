@@ -161,8 +161,17 @@ justify-content:center;
 position:absolute;
 left:23.0px;
 top:251.0px;
-height:34.0px;
-width:36.0px;
+height:30.0px;
+width:30.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_37_104 {
+position:absolute;
+left:8.333333333333332%;
+width:83.33333333333334%;
+top:5.882352193196614%;
+height:88.23529561360677%;
 display:flex;
 align-items:center;
 justify-content:center;
