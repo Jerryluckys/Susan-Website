@@ -1,6 +1,13 @@
 {
-  "name": "mail",
+  "name": "ToAdmin",
   "module": "mail",
   "action": "setup",
-  "options": {}
+  "options": {
+    "host": "198.251.84.7",
+    "port": 465,
+    "useSSL": true,
+    "username": "admin.campaigner@vallerysai.com",
+    "password": "Inanda2015!!"
+  },
+  "output": true
 }
