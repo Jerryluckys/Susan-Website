@@ -361,3 +361,31 @@ height:30.0px;
 width:30.0px;
 }
 
+#_54_2 {
+position:absolute;
+left:555.0px;
+top:70.0px;
+height:485.0px;
+width:656.0px;
+background-color:rgba(44.000001177191734, 47.0000009983778, 50.000000819563866, 1.0);
+border-radius:10.0px;
+box-shadow:0.0px 4.0px 4.0px rgba(0.0, 0.0, 0.0, 0.25);
+}
+
+#_54_3 {
+position:absolute;
+left:265.0px;
+top:14.0px;
+height:23.0px;
+width:126.0px;
+font-family:Roboto Flex;
+font-weight:600;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:100.0%;
+justify-content:LEFT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
