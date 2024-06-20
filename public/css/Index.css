@@ -95,7 +95,7 @@ border-radius:10.0px;
 box-shadow:1.0px 2.0px 3.0px rgba(0.0, 0.0, 0.0, 0.25);
 }
 
-#_38_118 {
+#Power_Rectangle {
 position:absolute;
 left:0.0px;
 top:406.0px;
@@ -103,6 +103,7 @@ height:79.0px;
 width:82.0px;
 background-color:rgba(27.51450788229704, 76.50000303983688, 4.4625000189989805, 1.0);
 border-radius:7.0px;
+cursor:pointer;
 box-shadow:1.0px 2.0px 4.0px rgba(0.0, 0.0, 0.0, 0.25);
 }
 
